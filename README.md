@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Karri-Narendra-Reddy
-- 👀 I’m interested in web development
+- 👀 I’m a Web Developer
+- 👀 I’m a Mobile Application Developer
 - 🌱 I’m currently learning ethical hacking
-- 💞️ I’m looking to collaborate on web development project
+- 💞️ I’m looking to collaborate with Ethical Hackers #india
 - 📫 How to reach me ...
 
 <!---
