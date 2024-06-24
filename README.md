@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Karri Narendra Reddy</h1>
-<h3 align="center">A passionate Front-End Developer</h3>
+<h3 align="center">A passionate Front-End Developer and QA Automation Engineer</h3>
 
-- 🔭 I’m currently working on [Dynamic Portfolio](https://karri-narendra-reddy.github.io/NarendraPortfolio/)
+- 🔭 I’m currently working in [NielsenIQ](NIQ)
 
 - 🌱 I’m currently learning **Vue js along with advance web3 Technologies**
 
-- 👯 I’m looking to collaborate on **Front End Development**
 
 - 👨‍💻 All of my projects are available at [https://karri-narendra-reddy.github.io/NarendraPortfolio/](https://karri-narendra-reddy.github.io/NarendraPortfolio/)
 
-- 💬 Ask me about **Angular, React**
+- 💬 Ask me about **Angular, Geb-Spock and Geb-TestNg**
 
 - 📫 How to reach me **narendrareddykarri11@gmail.com**
 
@@ -22,9 +21,6 @@
 </a>
 <a href="https://instagram.com/narendrahackz" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="narendrahackz" height="30" width="40" />
-</a>
-<a href="https://www.hackerrank.com/narendrareddyka1" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="narendrareddyka1" height="30" width="40" />
 </a>
 </p>
 
@@ -66,6 +62,10 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
+  <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://trifork.nl/blog/wp-content/uploads/sites/3/2014/08/groovy-logo-medium.png" alt="Groovy" width="40" height="40"/> 
+  </a>
+  
 </p>
 <p>
 
@@ -77,9 +77,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>    
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
@@ -105,6 +102,16 @@
   <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> 
   </a> 
+
+
+  <a href="https://www.gebish.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/352388?s=200&v=4" alt="Geb" width="40" height="40"/> 
+  </a>
+
+  <a href="https://spockframework.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/297723?s=48&v=4" alt="Spock" width="40" height="40"/> 
+  </a>
+  
 </p>
 
 <h3 align="left">Operating Systems:</h3>
@@ -118,6 +125,9 @@
    
    
   </p>
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karri-narendra-reddy&show_icons=true&locale=en&layout=compact" alt="karri-narendra-reddy" /></p>
 
